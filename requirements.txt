@@ -1,0 +1,6 @@
+tensorflow
+matplotlib
+tqdm
+pillow
+numpy
+pandas
